@@ -20,3 +20,4 @@ accountCity = "uttarPradesh"
 
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+
